@@ -8,6 +8,7 @@ wheels/
 .venv/
 venv/
 env/
+uv.lock
 
 # Python cache
 __pycache__/
