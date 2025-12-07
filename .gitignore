@@ -3,7 +3,7 @@
 build/
 dist/
 wheels/
-
+outputs*
 # Virtual environments
 .venv/
 venv/

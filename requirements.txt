@@ -1,3 +1,6 @@
 torch
 vllm
 trl
+scikit-learn
+peft
+deepspeed
